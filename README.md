@@ -24,7 +24,7 @@
 <tr>
 <td width="65%">
 
-I am a graduate student at **Wuhan University of Science and Technology (WUST)** under the supervision of **Prof. Chen Li**. My research focuses on pushing the boundaries of multimodal intelligence — building systems that can see, read, and reason across visual and textual modalities.
+I am a senior undergraduate at **Henan University of Engineering (HAUE)** and an incoming graduate student at **Wuhan University of Science and Technology (WUST)** under the supervision of **Prof. Chen Li**, starting September 2026. My research focuses on pushing the boundaries of multimodal intelligence — building systems that can see, read, and reason across visual and textual modalities.
 
 - 🔬 **Research Focus:** Multimodal Large Language Models, Vision-Language Alignment, Deep Learning
 - 📚 **Reading Groups:** Regular paper discussions on LLM architectures, multimodal fusion, and representation learning
@@ -125,25 +125,34 @@ I am a graduate student at **Wuhan University of Science and Technology (WUST)**
 
 ---
 
-## 🎓 Academic Timeline
-
-<div align="center">
-
-```mermaid
-timeline
-    title Academic Journey
-    2024 : B.E. @ HAUE<br>Undergraduate Thesis
-    2025 : M.S. @ WUST<br>Multimodal LLM Research
-    Future : Ph.D. Aspirant<br>🌱
-```
-
-</div>
+## 🔥 What I'm Working On
 
 <table align="center">
 <tr>
-<td align="center" width="33%">🎓 <b>B.E.</b><br/>Henan University of<br/>Engineering</td>
-<td align="center" width="33%">🔬 <b>M.S. (in progress)</b><br/>Wuhan University of<br/>Science & Technology</td>
-<td align="center" width="33%">🎯 <b>Next Goal</b><br/>Top-tier Publications<br/>& Ph.D. Application</td>
+<td width="50%">
+
+### 🟢 Active
+- 📄 **Paper Survey** — Systematically reading vision-language model papers (BLIP-2, LLaVA, InstructBLIP) and organizing notes
+- 🔬 **Reproducing Baselines** — Re-implementing classic multimodal architectures in PyTorch to build solid engineering intuition
+- 🧪 **Ablation Experiments** — Probing how different vision encoders (ViT, CLIP, SigLIP) affect downstream multimodal performance
+
+</td>
+<td width="50%">
+
+### 🟡 Learning
+- 🤗 **HuggingFace Ecosystem** — Mastering `transformers`, `datasets`, `accelerate` for efficient research workflows
+- ⚡ **Distributed Training** — DeepSpeed ZeRO, FSDP, gradient checkpointing for large-scale model training
+- 📐 **Math Foundations** — Strengthening linear algebra, probability, and optimization for deeper theoretical understanding
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🔵 Next Up
+Preparing a literature review on multimodal alignment strategies · Setting up a clean experiment pipeline with WandB logging · Exploring chain-of-thought reasoning in vision-language tasks
+
+</td>
 </tr>
 </table>
 
